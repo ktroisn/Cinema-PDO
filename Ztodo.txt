@@ -1,0 +1,20 @@
+-Home page with 3 carousels, sortable by certain criteria
+
+-Create the details of each actor, with the films in which he has acted and the roles he has played, as well as this information. 
+info, add the details to the movie details and to the actor list
+
+-Same for producer
+
+-Create a form to add an actor or director, with a radio to choose whether to create an actor or director
+
+-Create a genre addition form
+
+-Create a form to assign film roles to actors
+
+-Add column img for person and movie in bdd
+
+To fix : 
+
+-Possibility to change genres in film editing, with a selection
+
+
